@@ -7,4 +7,4 @@ In comparison to unknown referential implementation, this code achieved:
 * 200 times faster multiplication of big matrices
 * from 2 to 3 times faster mix of calculations
 
-This was the fastest implementation and it won I place.
+This was the fastest implementation and it won 1st place.
